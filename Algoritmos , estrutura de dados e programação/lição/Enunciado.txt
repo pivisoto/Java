@@ -1,0 +1,31 @@
+Bibliografia:
+	Capitulo 2 - Algoritmos - Teoria e Prática - Cormen (https://integrada.minhabiblioteca.com.br/reader/books/9788595158092/epubcfi/6/2%5B%3Bvnd.vst.idref%3Dcover%5D!/4/2/2%4051:42)
+
+1ª Tarefa: Ordenação Elementar
+	1) Pesquisar e implementar:
+		Ordenação por Incerção
+		Ordenação por Seleção
+	2) Realizar testes:
+		100 testes para cada tamanho de vetor para cada algoritmo:
+			- 40.000
+			- 80.000
+			- 160.000
+			- 320.000
+			- 640.000
+			- 1.280.000 (Só 10 para esse)
+			- 2.560.000 (Só 10 para esse)
+		Tirar a média dos tempos e construir um gráfico para cada algoritmo.
+		Observação:
+			Os testes são para os 3 algoritmos:	- Bubble
+												- Insertion
+												- Selection
+	Entrega: (1 por grupo)
+		- O código
+		- As planilhas de teste
+		- Os gráficos
+		- Um parágrafo de conclusão
+	-> No Git* ou no Open direto.
+		* Colocar no Open o link.
+	-> Não esquecer dos nomes dos integrantes.
+	
+	DATA LIMITE: 20/03/2023
